@@ -1,6 +1,7 @@
 # react-projects
 
-demo : http://localhost:5173/
+  
+  dice game using react+vite
 
 DICE GAME 
 
