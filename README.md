@@ -1,5 +1,7 @@
 # react-projects
 
+demo : http://localhost:5173/
+
 DICE GAME 
 
 *How to play dice game*
